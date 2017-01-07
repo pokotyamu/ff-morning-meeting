@@ -43,6 +43,9 @@ group :development, :test do
   gem 'pry-rails'
   gem 'pry-stack_explorer'
   gem 'hirb'
+  gem 'rspec-rails'
+  gem 'rspec-json_matcher'
+  gem 'factory_girl_rails'
 end
 
 group :development do
